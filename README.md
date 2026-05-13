@@ -1,1 +1,1 @@
-The business problem is that mid-sized lending institutions face fragmented applicant data and a reliance on narrow bureau data, which leads to the exclusion of approximately 26% of "thin-file" applicants and an annual loss of 15-20% in potentially profitable loan volume.
+Credit Risk Assessment Data Platform
